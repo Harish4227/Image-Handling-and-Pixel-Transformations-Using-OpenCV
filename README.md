@@ -237,17 +237,7 @@ plt.show()
 <img width="503" height="613" alt="image" src="https://github.com/user-attachments/assets/20f11883-0610-4ce5-b4c7-0e8adc08d374" />
 
 
-<img width="664" height="415" alt="image" src="https://github.com/user-attachments/assets/1fd945be-4725-4064-a982-ba55da8c6abb" />
-<img width="805" height="555" alt="image" src="https://github.com/user-attachments/assets/e9ece4c9-3f80-4a35-8778-ca89c9a1d73a" />
 
-
-
-- **ii)** Adjust Image Brightness.
--  <img width="827" height="244" alt="420662698-f34966ee-21f9-4441-bdd4-36c3da71b89d" src="https://github.com/user-attachments/assets/71c8bf69-5faa-45dc-a6d5-25c099f9d924" />
-
-
-- **iii)** Modify Image Contrast.
--  <img width="835" height="228" alt="420662827-998698a5-0d84-4f73-96d6-68421a529951" src="https://github.com/user-attachments/assets/653f919d-04de-48f2-a531-30b2bb80b4a7" />
 <img width="402" height="545" alt="image" src="https://github.com/user-attachments/assets/952287f2-8abb-4d3f-82ab-8fc78b73d26d" />
 
 
@@ -255,7 +245,6 @@ plt.show()
 - **iv)** Generate Third Image Using Bitwise Operations.
 - <img width="1063" height="392" alt="image" src="https://github.com/user-attachments/assets/d7669646-3c7f-42f5-95f9-9146eebb4735" />
 
-<img width="917" height="482" alt="image" src="https://github.com/user-attachments/assets/a914561f-64a7-4fdb-ba33-6e4a5c35ef41" />
 
 
 ## Result:
